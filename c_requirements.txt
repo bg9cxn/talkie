@@ -1,0 +1,6 @@
+
+pyaudio
+paho-mqtt
+aiohttp
+aiortc
+keyboard
